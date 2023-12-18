@@ -14,3 +14,4 @@ C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadora
 C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.pdb
 C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.genruntimeconfig.cache
 C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\ref\Calculadorax.dll
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.sourcelink.json

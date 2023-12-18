@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadorax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+115f9db9cbe61f0a9be02adb147d1fb03f4c9a92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadorax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadorax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
