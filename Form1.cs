@@ -128,26 +128,33 @@ namespace Calculadorax
                 operacao = "SOMA";
                 lblOperacao.Text = "+";
             }
+            else
+            {
+                MessageBox.Show("Informe um valor para efetuar a soma");
+            }    
         }
 
         private void button16_Click(object sender, EventArgs e)
         {
-            valor2 = decimal.Parse(txtResultado.Text, CultureInfo.InvariantCulture);
-            if (operacao == "SOMA")
+            if (txtResultado.Text != "")
             {
-                txtResultado.Text = Convert.ToString(valor1 + valor2);
-            }
-            else if (operacao == "SUB")
-            {
-                txtResultado.Text = Convert.ToString(valor1 - valor2);
-            }
-            else if (operacao == "MULT")
-            {
-                txtResultado.Text = Convert.ToString(valor1 * valor2);
-            }
-            else if (operacao == "DIV")
-            {
-                txtResultado.Text = Convert.ToString(valor1 / valor2);
+                valor2 = decimal.Parse(txtResultado.Text, CultureInfo.InvariantCulture);
+                if (operacao == "SOMA")
+                {
+                    txtResultado.Text = Convert.ToString(valor1 + valor2);
+                }
+                else if (operacao == "SUB")
+                {
+                    txtResultado.Text = Convert.ToString(valor1 - valor2);
+                }
+                else if (operacao == "MULT")
+                {
+                    txtResultado.Text = Convert.ToString(valor1 * valor2);
+                }
+                else if (operacao == "DIV")
+                {
+                    txtResultado.Text = Convert.ToString(valor1 / valor2);
+                }
             }
         }
 
