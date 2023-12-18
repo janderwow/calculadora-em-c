@@ -1,2 +1,2 @@
 # calculadora-em-c
-Calculadora simples utilizando C#
+Calculadora simples utilizando C# com Windows Forms.
