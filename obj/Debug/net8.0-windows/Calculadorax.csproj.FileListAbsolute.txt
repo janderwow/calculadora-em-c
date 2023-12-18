@@ -1,0 +1,16 @@
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\bin\Debug\net8.0-windows\Calculadorax.exe
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\bin\Debug\net8.0-windows\Calculadorax.deps.json
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\bin\Debug\net8.0-windows\Calculadorax.runtimeconfig.json
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\bin\Debug\net8.0-windows\Calculadorax.dll
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\bin\Debug\net8.0-windows\Calculadorax.pdb
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.Form1.resources
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.csproj.GenerateResource.cache
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.AssemblyInfoInputs.cache
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.AssemblyInfo.cs
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.csproj.CoreCompileInputs.cache
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.dll
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\refint\Calculadorax.dll
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.pdb
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\Calculadorax.genruntimeconfig.cache
+C:\Users\jande\OneDrive\Documentos\Projetos\Calculadora\Calculadorax\Calculadorax\Calculadorax\obj\Debug\net8.0-windows\ref\Calculadorax.dll
