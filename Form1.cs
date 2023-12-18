@@ -121,22 +121,36 @@ namespace Calculadorax
         private void button16_Click(object sender, EventArgs e)
         {
             valor2 = decimal.Parse(txtResultado.Text, CultureInfo.InvariantCulture);
-            if(operacao == "SOMA")
+            if (operacao == "SOMA")
             {
                 txtResultado.Text = Convert.ToString(valor1 + valor2);
-            } 
-            else if(operacao == "SUB")
+            }
+            else if (operacao == "SUB")
             {
                 txtResultado.Text = Convert.ToString(valor1 - valor2);
             }
-            else if(operacao == "MULT")
+            else if (operacao == "MULT")
             {
                 txtResultado.Text = Convert.ToString(valor1 * valor2);
             }
-            else if(operacao == "DIV")
+            else if (operacao == "DIV")
             {
                 txtResultado.Text = Convert.ToString(valor1 / valor2);
             }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            txtResultado.Text = "";
+            valor1 = 0;
+            valor2 = 0;
+            lblOperacao.Text = "";
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            txtResultado.Text = "";
+            lblOperacao.Text = "";
         }
     }
 }

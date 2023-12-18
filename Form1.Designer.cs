@@ -117,6 +117,7 @@
             button5.TabIndex = 7;
             button5.Text = "CE";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button6
             // 
@@ -126,6 +127,7 @@
             button6.TabIndex = 12;
             button6.Text = "C";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // button7
             // 
